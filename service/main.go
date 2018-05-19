@@ -212,7 +212,7 @@ const (
       PROJECT_ID = "circular-hawk-203921"
       BT_INSTANCE = "aound-post"
       // Needs to update this URL if you deploy it to cloud.
-      ES_URL = "http://35.229.106.43:9200"
+      ES_URL = "http://35.196.45.89:9200"
       BUCKET_NAME = "post-images-2039210"
 )
 
